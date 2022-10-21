@@ -358,3 +358,4 @@ The list below features the projects which use react-cookie-consent (that I know
 - [comicrelief's storybook](https://github.com/comicrelief/storybook)
 - [inici Gatsby theme](https://github.com/kuworking/gatsby-theme-kuworking-core)
 - [Scrivito Example App](https://github.com/Scrivito/scrivito_example_app_js)
+.
